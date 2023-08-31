@@ -1,0 +1,27 @@
+/* Top Right Bottom Left */
+
+body {
+    margin: 0;
+    background-color: beige;
+}
+
+.odin-recipes-box {
+    font-family: 'Courier New', Courier, initial;
+    font-style: italic;
+    font-size: large;
+    background-color: grey;
+    border: 2px solid black;
+    margin: 250px auto;
+    width: 750px;
+    padding: 4px 8px
+}
+
+.odin-recipes-box-list {
+    display: flex;
+    width: 700px;
+    margin: 0 auto;
+    list-style-type: none;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
